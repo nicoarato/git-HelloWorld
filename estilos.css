@@ -1,0 +1,39 @@
+body{
+	margin: 0 auto;
+	font-family: 'Poppins', sans-serif;
+	max-width: 1200;
+
+}
+
+header{
+	display: flex;
+	justify-content: space-around;
+	background: black;
+}
+
+header ul{
+	display: flex;
+
+}
+
+header ul li{
+	list-style: none;
+	margin-right: 15px;
+}
+
+a{
+	text-decoration: none;
+	color: orange;
+}
+
+h1{
+	text-align: center;
+	text-transform: uppercase;
+	margin: 20px 0;
+}
+
+.primer-linea{
+	color: gray;
+	text-align: right;
+	margin-right: 50px;
+}
