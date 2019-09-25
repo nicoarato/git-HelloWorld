@@ -1,0 +1,19 @@
+header{
+    border-bottom: 1px solid #a5a5a5;
+
+}
+
+.container{
+    background: #e3e3e3;
+}
+
+footer{
+    border-top: 1px solid #a5a5a5;
+}
+
+.iconos-fijos{
+    position: fixed;
+    top: 30%;
+    left: 1%;
+    font-size: 40px;
+}
